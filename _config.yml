@@ -5,8 +5,12 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Landing page for GoEPIC - which stands for Eric Paquin Innovation Consultant.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
-yaml
+```yaml
 remote_theme: samarsault/texture
+```
+```yaml
+theme: texture
+```
 theme: texture
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

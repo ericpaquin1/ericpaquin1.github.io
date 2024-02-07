@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+test
+
 # I'm Eric Paquin
 
 I believe it often takes bold moves to achieve business, and personal, success. But being bold is not sufficient, you need to understand the problem you want to solve, support your decision with data and, yes, sometimes, trust your gut instinct.

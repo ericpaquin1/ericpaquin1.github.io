@@ -12,13 +12,9 @@ This is me.
 
 **GOEPIC.**
 
-###### You can find me here:
+[LinkedIn](http://linkedin.com/in/ericpaquin/)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| LinkedIn     | http://linkedin.com/in/ericpaquin/ |   |
-| Twitter      | https://twitter.com/goepic_ie   |   |
-
+[Download my latest cv](./assets/files/eric_paquin_cv_230124.pdf).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

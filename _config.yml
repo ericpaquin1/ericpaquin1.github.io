@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Welcome to GoEPIC
 description: (EPIC stands for Eric Paquin Innovation Consultant)
+logo: assets/logo.png

@@ -12,10 +12,19 @@ This is me.
 
 **GOEPIC.**
 
+###### You can find me here:
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| LinkedIn     | http://linkedin.com/in/ericpaquin/ |   |
+| Twitter      | https://twitter.com/goepic_ie   |   |
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+ 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
